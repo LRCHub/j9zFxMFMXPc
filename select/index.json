@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "返り討ち",
+  "base_artist": "john",
+  "createdAt": "2026-02-08T03:40:43.388258Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "返り討ち",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/pl_01_返り討ち_John.txt"
+    }
+  ]
+}
